@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fcd753;
+}
+
+#main {
+    background: #fcffb7;
+    border-radius: 10px;
+    max-width: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#title {
+    padding: auto; 
+}
+
+h1 {
+    padding-top: 20px;
+}
+
+h2 {
+    line-height: 1px;
+}
+
+#img-div{
+    align-content: center;
+    text-align: center;
+  }
+  
+#image {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin: 10px 0px;
+}
+
+
+#img-caption {
+    font-size: large;
+}
+
+
+#tribute-info {
+    font-size: large;   
+}
+
+#career {
+    padding: 5px 20px;
+    border: 3px solid black;
+    margin: 20px;
+    text-align: left;
+}
+
+#as {
+    padding: 5px 20px;
+    border: 3px solid black;
+    margin: 20px;
+    text-align: left;
+}
+
+#quote {
+  font-size: larger;  
+}
+
+#footer {
+    font-style: italic;
+}
+
+#tribute-link {
+    color: black;
+    text-decoration: underline;
+}
+
+#tribute-link:hover {
+    color: blue;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid black;
+}
+
+
+
+
